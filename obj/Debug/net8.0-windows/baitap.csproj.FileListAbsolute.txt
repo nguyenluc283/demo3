@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Máy tính\test\baitap\baitap\bin\Debug\net8.0-windows\baitap.exe
+C:\Users\Admin\OneDrive\Máy tính\test\baitap\baitap\bin\Debug\net8.0-windows\baitap.deps.json
+C:\Users\Admin\OneDrive\Máy tính\test\baitap\baitap\bin\Debug\net8.0-windows\baitap.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\test\baitap\baitap\bin\Debug\net8.0-windows\baitap.dll
+C:\Users\Admin\OneDrive\Máy tính\test\baitap\baitap\bin\Debug\net8.0-windows\baitap.pdb
+C:\Users\Admin\OneDrive\Máy tính\test\baitap\baitap\obj\Debug\net8.0-windows\baitap.Form1.resources
+C:\Users\Admin\OneDrive\Máy tính\test\baitap\baitap\obj\Debug\net8.0-windows\baitap.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\test\baitap\baitap\obj\Debug\net8.0-windows\baitap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\test\baitap\baitap\obj\Debug\net8.0-windows\baitap.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\test\baitap\baitap\obj\Debug\net8.0-windows\baitap.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\test\baitap\baitap\obj\Debug\net8.0-windows\baitap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\test\baitap\baitap\obj\Debug\net8.0-windows\baitap.dll
+C:\Users\Admin\OneDrive\Máy tính\test\baitap\baitap\obj\Debug\net8.0-windows\refint\baitap.dll
+C:\Users\Admin\OneDrive\Máy tính\test\baitap\baitap\obj\Debug\net8.0-windows\baitap.pdb
+C:\Users\Admin\OneDrive\Máy tính\test\baitap\baitap\obj\Debug\net8.0-windows\baitap.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\test\baitap\baitap\obj\Debug\net8.0-windows\ref\baitap.dll
